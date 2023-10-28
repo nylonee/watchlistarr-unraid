@@ -15,7 +15,7 @@ https://github.com/nylonee/watchlistarr</Overview>
   <Category>MediaServer:Video</Category>
   <WebUI/>
   <TemplateURL>https://raw.githubusercontent.com/nylonee/watchlistarr-unraid/main/watchlistarr.xml</TemplateURL>
-  <Icon>https://github.com/nylonee/watchlistarr/blob/main/watchlistarr.png?raw=true<Icon/>
+  <Icon>https://github.com/nylonee/watchlistarr/blob/main/watchlistarr.png?raw=true</Icon>
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
