@@ -23,8 +23,7 @@ https://github.com/nylonee/watchlistarr</Overview>
   <DonateText/>
   <DonateLink/>
   <Requires>1. Requires Plex Pass&#xD;
-2. Generate the URL for your RSS feeds on https://app.plex.tv/desktop/#!/settings/watchlist&#xD;
-3. Get your quality profile IDs from Sonarr and Radarr by following the tutorial here: https://github.com/nylonee/watchlistarr#getting-your-quality-profile-ids</Requires>
+2. Generate the URL for your RSS feeds on https://app.plex.tv/desktop/#!/settings/watchlist</Requires>
   <Config Name="Sonarr API Key" Target="SONARR_API_KEY" Default="" Mode="" Description="Your Sonarr API Key, found in Sonarr UI Settings -&amp;gt; General" Type="Variable" Display="always" Required="true" Mask="false"/>
   <Config Name="Sonarr URL" Target="SONARR_BASE_URL" Default="" Mode="" Description="Your Sonarr URL" Type="Variable" Display="always" Required="false" Mask="false">http://localhost:8989</Config>
   <Config Name="Sonarr Quality Profile" Target="SONARR_QUALITY_PROFILE" Default="" Mode="" Description="The Sonarr Quality Profile you'd like new shows to inherit" Type="Variable" Display="always" Required="false" Mask="false"/>
