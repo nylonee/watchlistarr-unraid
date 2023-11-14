@@ -36,4 +36,5 @@ https://github.com/nylonee/watchlistarr</Overview>
   <Config Name="Radarr Root Folder" Target="RADARR_ROOT_FOLDER" Default="" Mode="" Description="Your Radarr Root folder, found in Radarr Settings" Type="Variable" Display="advanced" Required="false" Mask="false"/>
   <Config Name="Sonarr Bypass Exclusions" Target="SONARR_BYPASS_IGNORED" Default="" Mode="" Description="Set to true to bypass excluded sonarr lists" Type="Variable" Display="advanced" Required="false" Mask="false"/>
   <Config Name="Radarr Bypass Exclusions" Target="RADARR_BYPASS_IGNORED" Default="" Mode="" Description="Set to true to bypass excluded radarr lists" Type="Variable" Display="advanced" Required="false" Mask="false"/>
+  <Config Name="Sonarr Default Season Monitoring" Target="SONARR_SEASON_MONITORING" Default="" Mode="" Description="Default season monitoring. If not set, will be 'all'. Possible values are all, future, missing, existing, pilot, firstSeason, latestSeason, none" Type="Variable" Display="advanced" Required="false" Mask="false"/>
 </Container>
